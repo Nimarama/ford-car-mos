@@ -1,0 +1,31 @@
+{
+   "models": [
+      {
+         "id": "1",
+         "title": "ford 1",
+         "Price": "$158,000",
+         "img": "/tinywow_change_bg_photo_49743558.png",
+         "Horsepower": "343",
+         "Engine": "8.0L V8",
+         "Topspeed": "220mph"
+      },
+      {
+         "id": "2",
+         "title": "ford 2",
+         "Price": "$298,000",
+         "img": "/tinywow_change_bg_photo_49743907.png",
+         "Horsepower": "643",
+         "Engine": "5.0L V12",
+         "Topspeed": "320mph"
+      },
+      {
+         "id": "3",
+         "title": "ford 3",
+         "Price": "$188,000",
+         "img": "/tinywow_change_bg_photo_49745776.png",
+         "Horsepower": "543",
+         "Engine": "8.0L V6",
+         "Topspeed": "250mph"
+      }
+   ]
+}
